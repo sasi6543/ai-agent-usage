@@ -10,4 +10,4 @@
 
 ## 在线地址
 
-发布后托管于 GitHub Pages（地址见仓库 Settings → Pages）。
+https://sasi6543.github.io/ai-agent-usage/
